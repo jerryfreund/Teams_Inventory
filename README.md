@@ -1,3 +1,9 @@
 # Teams_Inventory
 
-This PowerShell will inventory all of your Teams sites channles and membership
+This PowerShell will output an inventory of all of your Teams sites channles and membership
+
+Requires "1.1.9-preview" PowerShell for Teams
+
+Teams admin login or a Global Admin Login"
+
+
